@@ -24,7 +24,7 @@ table, td, th {
 table {
   border-collapse: collapse;
   width: 80%;
-  align-self: center;
+  margin: auto;
 }
 th, td {
   padding: auto;
