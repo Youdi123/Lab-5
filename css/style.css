@@ -18,7 +18,7 @@ h1 {
 h2 {
   font-size: 150%;
   font-weignt: bold;
-  color: black;
+  color: white;
 }
 table, td, th {
   border: 2px solid #99ffe4;
@@ -35,7 +35,7 @@ th {
   font-size: 15px;
   font-family: Courier New;
   text-align: center;
-  color: black;
+  color: white;
 }
 #image {
   font-size: 15px;
