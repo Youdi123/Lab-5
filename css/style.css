@@ -1,6 +1,5 @@
 body {
-  background: url('../media/background.jpg');
-  background-size: cover;
+  background-color: green;
   text-align: center;
 h1 {
   font-family: Palatino Linotype;
