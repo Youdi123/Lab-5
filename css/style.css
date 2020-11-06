@@ -1,25 +1,6 @@
 
 
-#image {
-  font-size: 15px;
-  font-family: Courier New;
-  color: #ff99ff;
-  align-self: center;
-  boder-radius: 15px;
-  text-align: center;
-}
-#mass {
-  font-size: 15px;
-  font-family: Courier New;
-  color: #ff80ff;
-  text-align: center;
-}
-#diameter {
-  font-size: 15px;
-  font-family: Courier New;
-  color: #ff66ff;
-  text-align: center;
-}
+
 #density {
   font-size: 15px;
   font-family: Courier New;
