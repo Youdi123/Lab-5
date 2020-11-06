@@ -2,17 +2,13 @@ body {
   background-image: url("media/background.jpg");
   background-size: cover;
 }
-img {
-  align-self: center;
-  boder-radius: 15px;
-}
-.title {
+h1 {
   font-family: Palatino Linotype;
   font-size: 20px;
   text-align: center;
   color: red;
 }
-.intro {
+p {
   font-size: 150%;
   font-weignt: bold;
   color: white;
@@ -32,6 +28,10 @@ th {
   font-family: Courier New;
   color: #ffb3ff;
   text-align: center;
+}
+img {
+  align-self: center;
+  boder-radius: 15px;
 }
 #image {
   font-size: 15px;
