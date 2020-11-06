@@ -14,6 +14,10 @@ h2 {
   font-weignt: bold;
   color: balck;
 }
+img {
+  align-self: center;
+  boder-radius: 15px;
+}
 table, td, th {
   border: 2px solid #99ffe4;
 }
