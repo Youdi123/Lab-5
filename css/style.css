@@ -2,21 +2,20 @@ body {
   background: url('../media/background.jpg');
   background-size: cover
   text-align: center;
+img {
+  align-self: center;
+  boder-radius: 15px;
+}
 h1 {
   font-family: Palatino Linotype;
   font-size: 40px;
   text-align: center;
   color: red;
 }
-h2 {
-  text-align: center;
+p {
   font-size: 150%;
   font-weignt: bold;
-  color: balck;
-}
-img {
-  align-self: center;
-  boder-radius: 15px;
+  color: white;
 }
 table, td, th {
   border: 2px solid #99ffe4;
@@ -27,52 +26,59 @@ table {
 }
 th, td {
   padding: auto;
-  text-align: center;
 }
 th {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  text-align: center;
 }
 #image {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff99ff;
   align-self: center;
   boder-radius: 15px;
+  text-align: center;
 }
 #mass {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff80ff;
+  text-align: center;
 }
 #diameter {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff66ff;
+  text-align: center;
 }
 #density {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff4dff;
+  text-align: center;
 }
 #velocity {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff33ff;
+  text-align: center;
 }
 #distance {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #fflaff;
+  text-align: center;
 }
 #rotation {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #ff00ff;
+  text-align: center;
 }
 #revolution {
   font-size: 15px;
   font-family: Courier New;
-  color: #ffb3ff;
+  color: #e600e6;
+  text-align: center;
 }
