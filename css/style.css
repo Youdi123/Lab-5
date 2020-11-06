@@ -7,7 +7,7 @@ body {
 }
 img {
   align-self: center;
-  boder-radius: 15px;
+  border-radius: 15px;
 }
 h1 {
   font-family: Palatino Linotype;
@@ -17,7 +17,7 @@ h1 {
 }
 h2 {
   font-size: 150%;
-  font-weignt: bold;
+  font-weight: bold;
   color: white;
 }
 table, td, th {
@@ -29,7 +29,7 @@ table {
   margin: auto;
 }
 th, td {
-  padding: auto;
+  padding: 10px;
 }
 th {
   font-size: 15px;
@@ -42,7 +42,7 @@ th {
   font-family: Courier New;
   color: #ff99ff;
   align-self: center;
-  boder-radius: 15px;
+  border-radius: 15px;
   text-align: center;
 }
 #mass {
@@ -72,7 +72,7 @@ th {
 #distance {
   font-size: 15px;
   font-family: Lucida Sans Unicode;
-  color: #fflaff;
+  color: #ff33ff;
   text-align: center;
 }
 #rotation {
