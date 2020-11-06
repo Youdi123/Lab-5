@@ -1,5 +1,6 @@
-html {
-  nackground-color: gree;
+body {
+  background-image: url("../media/background.jpg");
+  background-size: cover;
   text-align: center;
 }
 h1 {
