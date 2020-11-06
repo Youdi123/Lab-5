@@ -1,5 +1,5 @@
-html {
-  background-image: linear-gradient(to right, red, yello);
+body {
+  background-image: linear-gradient(to right, yello, gree);
 }
 h1 {
   font-family: Palatino Linotype;
@@ -10,7 +10,7 @@ h1 {
 p {
   font-size: 150%;
   font-weignt: bold;
-  color: white;
+  color: balck;
 }
 table, td, th {
   border: 2px solid #99ffe4;
@@ -21,12 +21,12 @@ table {
 }
 th, td {
   padding: auto;
+  text-align: center;
 }
 th {
   font-size: 15px;
   font-family: Courier New;
   color: #ffb3ff;
-  text-align: center;
 }
 img {
   align-self: center;
@@ -37,19 +37,16 @@ img {
   font-family: Courier New;
   color: #ff99ff;
   align-self: center;
-  text-align: center;
 }
 #mass {
   font-size: 15px;
   font-family: Courier New;
   color: #ff80ff;
-  text-align: center;
 }
 #diameter {
   font-size: 15px;
   font-family: Courier New;
   color: #ff66ff;
-  text-align: center;
 }
 #density {
   font-size: 15px;
@@ -60,23 +57,19 @@ img {
   font-size: 15px;
   font-family: Courier New;
   color: #ff33ff;
-  text-align: center;
 }
 #distance {
   font-size: 15px;
   font-family: Courier New;
   color: #fflaff;
-  text-align: center;
 }
 #rotation {
   font-size: 15px;
   font-family: Courier New;
   color: #ff00ff;
-  text-align: center;
 }
 #revolution {
   font-size: 15px;
   font-family: Courier New;
   color: #e600e6;
-  text-align: center;
 }
