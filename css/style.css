@@ -1,17 +1,16 @@
 body {
   background-image: url("../media/background.jpg");
   background-size: cover;
-  text-align: center;
 }
 h1 {
   font-family: Palatino Linotype;
-  font-size: 150%;
+  font-size: 40px;
   text-align: center;
   color: red;
 }
 h2 {
   text-align: center;
-  font-size: 40px;
+  font-size: 150%;
   font-weignt: bold;
   color: balck;
 }
