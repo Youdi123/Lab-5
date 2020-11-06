@@ -1,7 +1,6 @@
   body {
   background: url('../media/background.jpg');
-  background-color: #000000;
-  color: #ffffff;
+  background-size: cover;
 h1 {
   font-family: Palatino Linotype;
   font-size: 40px;
