@@ -2,6 +2,7 @@ body {
   background: url('../media/background.jpg');
   background-size: cover
   text-align: center;
+}
 img {
   align-self: center;
   boder-radius: 15px;
