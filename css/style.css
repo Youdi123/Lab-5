@@ -1,6 +1,5 @@
-html {
-  background-image: url("media/background.jpg");
-  background-size: cover;
+body {
+  background-image: linear-gradient(to right, #cc66ff 80%, #66ffff 85);
 }
 h1 {
   font-family: Palatino Linotype;
