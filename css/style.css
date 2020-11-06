@@ -1,26 +1,4 @@
-body {
-  background-color: green;
-  text-align: center;
-}
-  img {
-  align-self: center;
-  boder-radius: 15px;
-}
-h1 {
-  font-family: Palatino Linotype;
-  font-size: 40px;
-  text-align: center;
-  color: red;
-}
-p {
-  font-size: 150%;
-  font-weignt: bold;
-  color: white;
-  text-align: center;
-}
-table, td, th {
-  border: 2px solid #99ffe4;
-}
+
 table {
   border-collapse: collapse;
   width: 100%;
