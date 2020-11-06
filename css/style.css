@@ -1,5 +1,5 @@
 body {
-  background-image: url('..media/background.jpg');
+  background-image: url("../media/background.jpg");
   background-size: cover;
   text-align: center;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@ th {
   font-size: 15px;
   font-family: Courier New;
   text-align: center;
-  color: #ff99ff
+  color: black;
 }
 #image {
   font-size: 15px;
@@ -47,43 +47,43 @@ th {
 }
 #mass {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Sans Unicode;
   color: #ff80ff;
   text-align: center;
 }
 #diameter {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Console;
   color: #ff66ff;
   text-align: center;
 }
 #density {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Sans Unicode;
   color: #ff4dff;
   text-align: center;
 }
 #velocity {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Console;
   color: #ff33ff;
   text-align: center;
 }
 #distance {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Sans Unicode;
   color: #fflaff;
   text-align: center;
 }
 #rotation {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Console;
   color: #ff00ff;
   text-align: center;
 }
 #revolution {
   font-size: 15px;
-  font-family: Courier New;
+  font-family: Lucida Sans Unicode;
   color: #e600e6;
   text-align: center;
 }
