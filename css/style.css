@@ -1,1 +1,75 @@
-
+body {
+  background-image: url("media/background.jpg");
+  background-size: cover;
+}
+img {
+  align-self: center;
+  boder-radius: 15px;
+}
+.title {
+  font-family: Palatino Linotype;
+  font-size: 20px;
+  text-align: center;
+  color: red;
+}
+.intro {
+  font-size: 150%;
+  font-weignt: bold;
+  color: white;
+}
+table, td, th {
+  border: 2px solid #99ffe4;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: auto;
+}
+th {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ffb3ff;
+  text-align: center;
+}
+#image {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff99ff;
+}
+#mass {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff80ff;
+}
+#diameter {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff66ff;
+}
+#density {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff4dff;
+}
+#velocity {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff33ff;
+}
+#distance {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #fflaff;
+}
+#rotation {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #ff00ff;
+}
+#revolution {
+  font-size: 15px;
+  font-family: Courier New;
+  color: #e600e6;
+}
