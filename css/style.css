@@ -1,6 +1,7 @@
 body {
   background: url('../media/background.jpg');
   background-size: cover;
+  text-align: center
 h1 {
   font-family: Palatino Linotype;
   font-size: 40px;
@@ -28,7 +29,6 @@ th {
   font-size: 15px;
   font-family: Courier New;
   color: #ffb3ff;
-}
 }
 #image {
   font-size: 15px;
