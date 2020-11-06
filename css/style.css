@@ -36,16 +36,20 @@ img {
   font-size: 15px;
   font-family: Courier New;
   color: #ff99ff;
+  align-self: center;
+  text-align: center;
 }
 #mass {
   font-size: 15px;
   font-family: Courier New;
   color: #ff80ff;
+  text-align: center;
 }
 #diameter {
   font-size: 15px;
   font-family: Courier New;
   color: #ff66ff;
+  text-align: center;
 }
 #density {
   font-size: 15px;
@@ -56,19 +60,23 @@ img {
   font-size: 15px;
   font-family: Courier New;
   color: #ff33ff;
+  text-align: center;
 }
 #distance {
   font-size: 15px;
   font-family: Courier New;
   color: #fflaff;
+  text-align: center;
 }
 #rotation {
   font-size: 15px;
   font-family: Courier New;
   color: #ff00ff;
+  text-align: center;
 }
 #revolution {
   font-size: 15px;
   font-family: Courier New;
   color: #e600e6;
+  text-align: center;
 }
