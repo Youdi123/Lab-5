@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to right, yello, gree);
+  background-color: gree;
 }
 h1 {
   font-family: Palatino Linotype;
@@ -37,11 +37,6 @@ th {
   boder-radius: 15px;
 }
 #mass {
-  font-size: 15px;
-  font-family: Courier New;
-  color: #ffb3ff;
-}
-.text1 {
   font-size: 15px;
   font-family: Courier New;
   color: #ffb3ff;
